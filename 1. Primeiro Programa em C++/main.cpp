@@ -3,8 +3,6 @@
 /* CONTEÚDO DA SEÇÃO:
 ** - Biblioteca padrão: #include <iostream>
 ** - Saída de dados: std::cout e std::endl;
-**
-**
 */
 
 int main(){
