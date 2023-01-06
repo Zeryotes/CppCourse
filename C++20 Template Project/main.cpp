@@ -1,6 +1,11 @@
 #include <iostream>
 
+/* CONTEÚDO DA SEÇÃO:
+** - 
+*/
+
 int main(){
-    auto resultado = (10 <=> 20) > 0;
-    std::cout << resultado << std::endl;
+    std::cout << "Hello World" << std::endl;
+
+    return 0;
 }
