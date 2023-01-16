@@ -2,7 +2,7 @@
 
 /* CONTEÚDO DA SEÇÃO:
 ** - Caracteres (CHAR)
-** - Textos (STRING)
+** - Textos (STRING) // Não apresentado nessa aula
 */
 
 int main(){
@@ -24,7 +24,6 @@ int main(){
     char valor = 65; // Código para 'A' na tabela ASCII
     std::cout << "Valor : " << valor << std::endl;
     std::cout << "Valor (int) : " << static_cast<int>(valor) << std::endl;
-
 
     return 0;
 }
